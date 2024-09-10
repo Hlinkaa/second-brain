@@ -14,7 +14,7 @@ Fecha: 9/9/2024
 En cuanto a la persona que estudia sistemas, la facultad que desarrolla es la de **RESOLVER PROBLEMAS***
 
 ### ¿Qué es un lenguaje de programación?
-Es posible dividir a los lenguajes en **dos categorias** :
+Es posible dividir a los lenguajes en **dos categorías** :
 
 - ***Lenguajes de ALTO NIVEL*** 
 
@@ -32,5 +32,21 @@ Para que la maquina logre una correcta interpretacion del lenguaje de alto nivel
 
 #### Ventajas del Lenguaje de Alto Nivel
 
-- La programacion en el mismo, **es mucho mas facil**
+- La programación en el mismo, **es mucho mas fácil**
 - Los lenguajes de alto nivel, **son portables**
+
+>[!NOTE] Interpretes
+>Son los encargados de leer el código para luego ejecutarlo
+
+![[Pasted image 20240910150906.png]]
+
+>[!NOTE] Compiladores
+>Es el encargado de traducir el programa anteriormente a su ejecución
+
+![[Pasted image 20240910151747.png]]
+En el caso de Java lo que se genera es *Java Byte Code*, el cual tiene de distintivo el hecho de ser portátil y sencillo.
+
+![[Pasted image 20240910153816.png]]
+
+#### Que es un programa
+Un programa es una secuencia de instrucciones que especifica como efectuar un calculo o comput
