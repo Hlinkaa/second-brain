@@ -1,0 +1,1 @@
+Un controlador de dispositivo, o controlador informático, es un **tipo de software único desarrollado para permitir la interacción entre el sistema operativo y los dispositivos de hardware.** Vendría a ser como el traductor que facilita la comunicación entre su sistema operativo y los componentes de hardware de su ordenador.
