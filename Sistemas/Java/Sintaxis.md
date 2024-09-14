@@ -27,3 +27,6 @@ public static void main (String[] args)
 - los archivos se guardan con el nombre de la clase y la extensión .java ("*MyFirstJavaClass.java*")
 - En la sintaxis de Java, existen delimitadores "{...}", los cuales <mark style="background: #D2B3FFA6;">denotan un bloque de codigo</mark> y una <mark style="background: #D2B3FFA6;">nueva area de codigo</mark>
 - Cada declaración de código debe terminar con un punto y coma (";")
+
+# Referencias
+- [[Pensando la Computación como un Científico (con Java)]]

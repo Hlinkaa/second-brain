@@ -68,3 +68,5 @@ boolean verdadero = true;
 boolean falso = false;
 ```
 
+# Referencias
+- [[Pensando la Computación como un Científico (con Java)]]

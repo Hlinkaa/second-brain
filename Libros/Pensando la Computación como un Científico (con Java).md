@@ -1,5 +1,5 @@
 ---
-Nombre del Libro: Pensando la Computación como un Científico (con Java)
+Nombre del LibroNombre del Libro: Pensando la Computación como un Científico (con Java)
 Lenguaje: Java
 tags:
   - Java

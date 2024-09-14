@@ -1,0 +1,1 @@
+Proceso por el cual se devuelve el capital que inversor depositó, se denomina [[Valor Nominal|valor nominal]]
