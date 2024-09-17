@@ -14,12 +14,10 @@ Cada etapa del ciclo de instrucción se ejecuta en un ciclo de clock, ejecutar u
 
 Resulta util para acumular/superponer en el tiempo la ejecucion de varias instrucciones a la vez
 
-### Linea de Montaje
+### *Linea de Montaje*
 
 ![[Pasted image 20240905171705.png]]
 
 - Los bloques funcionales trabajan en paralelo operando en forma simultanea pero cada uno en una instruccion diferente
 - El **pipeline** no reduce el tiempo de ejecucion de cada instruccion individual, sino que al aplicarse en paralelo al flujo de instrucciones, incrementa el numero de instrucciones completadas por unidad de tiempo. %% se hace uso de la misma cantidad de tiempo para los procesos pero consiguiendo una mayor cantidad de resultados %%
 - Este concepto es conocido como **Paralelismo a Nivel de Instrucciones ILP (Instruction Level Paralelism)**
-
-# Modelo de Harvard

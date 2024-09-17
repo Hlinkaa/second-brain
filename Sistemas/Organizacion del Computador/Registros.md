@@ -1,0 +1,3 @@
+Son unidades de almacenamiento de alta velocidad ubicadas dentro de la [[CPU (Central Processing Unit - Unidad Central de Procesamiento)|CPU]].Actúan como espacios temporales donde la [[CPU (Central Processing Unit - Unidad Central de Procesamiento)|CPU]] guarda los datos que está procesando en ese momento. Los registros son más rápidos que la memoria principal ([[Random Acces Memory|RAM]]) y permiten acceder a los datos de manera inmediata.
+
+![[Pasted image 20240915202312.png]]

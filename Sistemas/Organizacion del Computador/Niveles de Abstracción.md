@@ -18,7 +18,7 @@ En este nivel el sistema operativo se comunica directamente con el hardware a tr
 Es el nivel que define cuales instrucciones pueden ser ejecutadas. Esta capa sirve como puente entre el hardware **(microarquitectura)** y el software. **Cada procesador tiene su ISA**
 
 #### Nivel 1 : Microarquitectura
-Define la implementacion fisica del ISA, aquí se especifica como el procesador ejecuta las instrucciones, gestionando elementos como [[Registros|registros]], [[Arithmetic Logic Unit - ALU|ALU]], [[Unidad de Control|unidad de control]] y la [[Memoria Caché|memoria caché]]
+Define la implementacion fisica del ISA, aquí se especifica como el procesador ejecuta las instrucciones, gestionando elementos como [[SecondBrain/Sistemas/Organizacion del Computador/Registros|registros]], [[Arithmetic Logic Unit - ALU|ALU]], [[SecondBrain/Sistemas/Organizacion del Computador/Unidad de Control|unidad de control]] y la [[Memoria Caché|memoria caché]]
 %% Incluye tecnicas como pipeline %%
 
 #### Nivel 0 : Logica Digital

@@ -1,0 +1,1 @@
+Los dispositivos periféricos o simplemente periféricos son **herramientas de hardware que sirven como interface entre el usuario y la computadora**.

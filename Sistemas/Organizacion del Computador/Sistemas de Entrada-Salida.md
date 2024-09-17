@@ -1,0 +1,1 @@
+Parte encargada de realizar las transferencias de informacion con las unidades exteriores denominadas [[Perifericos|perifericos]]. Podria decirse que es la encargada de interactuar directamente con el usuario, adquiriendo datos (*inputs*) o exportandolos (*outputs*)

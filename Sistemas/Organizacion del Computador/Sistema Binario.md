@@ -9,16 +9,15 @@ Tema: Números Binarios
 ---
 ## Dígito
 ---
-En un sistema numerico es un simbolo que no es combinacion de otros y representa un entero positivo
+En un sistema numérico es un símbolo que no es combinación de otros y representa un entero positivo
 
-## Base de un Sistema Numerico
+## Base de un Sistema Numérico
 ---
-- Coincide con el numero de digitos usados en ese sistema
+- Coincide con el numero de dígitos usados en ese sistema
 
-- Un sistema numerico es posicional si su valor depende del lugar que ocupe
+- Un sistema numérico es posicional si su valor depende del lugar que ocupe
 
-- La posicion de cada digito dentro de un numero indica la magnitud representada
-- A cada posicion se le asigna un valor llamado <font color="yellow" size=4>peso</font>
-- Los pesos de los numeros enteros son <font color="yellow" size=4>potencias positivas de 10</font>
-- Los pesos de los numeros fraccionarios son <font color="yellow" size=4>potencias negativas de 10</font>
-- 
+- La posición de cada digito dentro de un numero indica la magnitud representada
+- A cada posición se le asigna un valor llamado <font color="magenta" size=4>peso</font>
+- Los pesos de los números enteros son <font color="magenta" size=4>potencias positivas de 10</font>
+- Los pesos de los números fraccionarios son <font color="magenta" size=4>potencias negativas de 10</font>

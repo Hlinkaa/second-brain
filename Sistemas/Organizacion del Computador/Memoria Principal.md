@@ -1,0 +1,2 @@
+**Dispositivo electrónico encargado del almacenamiento de los datos e instrucciones del programa**, la cantidad mínima de almacenamiento es el [[Bit|bit]].
+Se caracteriza por presentar las celdas divididas y representadas con una dirección para identificar cada una%% como una especie de ID %%. Además de que no presenta un espacio dividido como si se suele dar en el [[Arquitectura de Harvard|modelo de Harvard]].Todas las celdas son del mismo tamaño (*8 bits*).
