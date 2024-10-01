@@ -25,11 +25,18 @@ tags:
 
 ## Tasa de Interes (*o de Cupon Aplicable*)
 
-- Basicamente seria cuanto te van a pagar <font size = 5 color="yellow">SOBRE LO QUE NO TE PAGARON</font>. 
+- Basicamente seria cuanto te van a pagar <font size = 5 color="red">SOBRE LO QUE NO TE PAGARON</font>. 
   Esto significa que si el valor nominal de un bono es de 100 pero el emisor ya amortizo 20, la tasa de cupon aplicable o de interes se calculara sobre los 80 **QUE AUN NO SE DEVOLVIERON**. Dicha tasa puede ser fija o variable, todo depende y se encuentra en el [[Prospecto de Emision|prospecto de emision]] 
 
 ![[Amortizacion]]
 
 ![[Valor Nominal]]
 
+## Denominacion Minima
+
+- La cantidad de dinero minima que se puede invertir, por ejemplo, si esto fuese un [[FCI|fondo comun]] el monto minimo necesario seria de 1000%% valor aproximado que solo sirve para este ejemplo %% para poder participar.
+
 ## Monto Emitido
+
+- Hace referencia a la **CANTIDAD EMITIDA** en moneda y no la cantidad de bonos en si. Adjunto ejemplo
+  ![[Pasted image 20240923103939.png]]
